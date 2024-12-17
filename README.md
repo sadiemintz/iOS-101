@@ -1,9 +1,7 @@
 
-# Prework - *iOS 101*
+# Prework - *iOS-101*
 
 Submitted by: **Sadie Mintz**
-
-**iOS 101** is an app that... [TODO] 
 
 Time spent: **2** hours spent in total
 
@@ -15,14 +13,29 @@ The following **required** functionality is completed:
 - [ ] Tapping the button changes the screen color to a random color
  
 ## App Brainstorming (Step 4)
+**Goodreads**
+- keeping track of all the books users have read and want to read
+- Participating in annual book challenges with friends and book lovers
+
+**Spotify**
+- easily discovering songs similar to the ones you love
+- sharing playlists with friends and jam with friend on the same playlists
+
+**Podcasts**
+- Providing recommendations based on history and preference
+- offline download esposides and listen them without internet
+
+**App idea**
+Movie is an app that allows movie fans to track, explore, and discuss their favorite films. Users can make personalized lists of movies they've seen and want to see. Users can discover similar films by using the app's suggestions based on their viewing history and preferences. A comments section allows users to talk about movies, post reviews, and interact with other viewers. Additionally, the app contains an interactive map showcasing filming locations, which is ideal for individuals who want to visit popular movie locations throughout the world.
 
 ## Notes
 
 Describe any challenges encountered while building the app.
+- One of the challenge tasks was locating the required icons and tools in Xcode. Because the icons did not display names or descriptions by default somehow, it was difficult to determine their functions.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2024] [Sadie Mintz]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
